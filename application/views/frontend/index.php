@@ -286,20 +286,16 @@
                             <div class="swiper-wrapper">
                                 <!-- Slides -->
                                 <div class="swiper-slide">
-                                    <a href="shop.html" class="btn"><span class="icon"><img width="33" height="33"
-												src="asssets/images/catagories/sneakers.png" alt="image"></span> Sayuran & Buah</a>
+                                    <a href="shop.html" class="btn">Sayuran & Buah</a>
                                 </div>
                                 <div class="swiper-slide">
-                                    <a href="shop.html" class="btn"><span class="icon"><img width="33" height="33"
-												src="asssets/images/catagories/watch.png" alt="image"></span>Paket Diet</a>
+                                    <a href="shop.html" class="btn">Paket Diet</a>
                                 </div>
                                 <div class="swiper-slide">
-                                    <a href="shop.html" class="btn"><span class="icon"><img width="33" height="33"
-												src="asssets/images/catagories/headphones.png" alt="image"></span>Daging</a>
+                                    <a href="shop.html" class="btn">Daging</a>
                                 </div>
                                 <div class="swiper-slide">
-                                    <a href="shop.html" class="btn"><span class="icon"><img width="33" height="33"
-												src="assests/images/catagories/bagpack.png" alt="image"></span>Sembako</a>
+                                    <a href="shop.html" class="btn">Sembako</a>
                                 </div>
                             </div>
                         </div>
