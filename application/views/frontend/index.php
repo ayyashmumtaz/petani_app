@@ -130,48 +130,43 @@
                         <div class="row">
                             <div class="col-12">
                                 <div class="shop-filter-block mt-0">
-                                    <h4 class="shop-filter-block__title">Price</h4>
+                                    <h4 class="shop-filter-block__title">Harga</h4>
                                     <div class="shop-filter-block__content">
                                         <div class="widget-price-range">
                                             <input type="text" id="price-range-slider">
                                         </div>
                                     </div>
                                 </div>
-                                <ul class="product-variable-lists">
+                                <!-- <ul class="product-variable-lists">
                                     <li class="list-item">
-                                        <div class="left">Size</div>
+                                        <div class="left">Kategori</div>
                                         <div class="right">
                                             <ul class="size-chart inner-child-item">
                                                 <li>
                                                     <label for="samll">
                                                         <input type="radio" name="size" id="samll" checked="">
-                                                        <span class="size-text">S</span>
+                                                        <span class="size-text">Sayuran & Buah</span>
                                                     </label>
                                                 </li>
                                                 <li>
                                                     <label for="medium">
                                                         <input type="radio" name="size" id="medium">
-                                                        <span class="size-text">M</span>
+                                                        <span class="size-text">Daging</span>
                                                     </label>
                                                 </li>
                                                 <li>
                                                     <label for="large">
                                                         <input type="radio" name="size" id="large">
-                                                        <span class="size-text">L</span>
+                                                        <span class="size-text">Paket Diet</span>
                                                     </label>
                                                 </li>
                                                 <li>
                                                     <label for="xlarge">
                                                         <input type="radio" name="size" id="xlarge">
-                                                        <span class="size-text">XL</span>
+                                                        <span class="size-text">Sembako</span>
                                                     </label>
                                                 </li>
-                                                <li>
-                                                    <label for="xxlarge">
-                                                        <input type="radio" name="size" id="xxlarge">
-                                                        <span class="size-text">XXL</span>
-                                                    </label>
-                                                </li>
+                                               
                                             </ul>
                                         </div>
                                     </li>
@@ -207,18 +202,8 @@
                                         </div>
                                     </li>
 
-                                </ul>
-                                <div class="shop-filter-block">
-                                    <h4 class="shop-filter-block__title">Brand</h4>
-                                    <div class="shop-filter-block__content">
-                                        <ul class="shop-filter-block__brand">
-                                            <li><button>HasThemes</button></li>
-                                            <li><button class="active">HasTech</button></li>
-                                            <li><button>Bootxperts</button></li>
-                                            <li><button>Codecarnival</button></li>
-                                        </ul>
-                                    </div>
-                                </div>
+                                </ul> -->
+                           
                                 <div class="shop-filter-block">
                                     <button class="apply-btn">APPLY</button>
                                     <button class="cancel-btn">CANCEL</button>
